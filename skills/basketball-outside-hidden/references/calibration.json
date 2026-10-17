@@ -1,0 +1,10 @@
+{
+  "population": "Uploaded offline player templates with AbilityPG strictly greater than all four other stored position ratings",
+  "count": 915,
+  "metric": "FadeAway + Pullup, before related badge additions",
+  "sample_min": 15,
+  "sample_max": 176,
+  "quantile_method": "sorted[floor((n-1)*p)]",
+  "quantiles": {"0.25": 76, "0.50": 93, "0.75": 110, "0.90": 140, "0.95": 155},
+  "limitations": ["Not a hard cap", "Not verified live population", "Historical and repeated template variants may be included", "Stored position ratings do not always match recomputation"]
+}
